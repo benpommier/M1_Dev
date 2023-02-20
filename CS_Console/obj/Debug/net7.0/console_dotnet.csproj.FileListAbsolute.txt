@@ -1,0 +1,15 @@
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/bin/Debug/net7.0/console_dotnet
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/bin/Debug/net7.0/console_dotnet.deps.json
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/bin/Debug/net7.0/console_dotnet.runtimeconfig.json
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/bin/Debug/net7.0/console_dotnet.dll
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/bin/Debug/net7.0/console_dotnet.pdb
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.csproj.AssemblyReference.cache
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.AssemblyInfoInputs.cache
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.AssemblyInfo.cs
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.csproj.CoreCompileInputs.cache
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.dll
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/refint/console_dotnet.dll
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.pdb
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/console_dotnet.genruntimeconfig.cache
+/Users/ben/Documents/M1_Dev_Projects/console_dotnet/obj/Debug/net7.0/ref/console_dotnet.dll
